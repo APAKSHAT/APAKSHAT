@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/APAKSHAT">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7F5AF0&center=true&vCenter=true&width=640&lines=I+observe+gaps.;Then+I+build+solutions.;AI+engineer+%E2%80%A2+full-stack+builder;LLM+systems+that+don't+hallucinate;FastAPI+%E2%9F%B7+Next.js+%E2%9F%B7+Postgres" alt="typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7F5AF0&center=true&vCenter=true&width=640&lines=I+observe+gaps.;Then+I+build+solutions.;LLM+systems+that+don't+hallucinate;FastAPI+%E2%9F%B7+Next.js+%E2%9F%B7+Postgres" alt="typing intro"/>
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 
 <!-- mascot -->
 <p align="center">
-  <img src="./assets/mascot.svg" width="100%" alt="gapbot spots a gap and builds a bridge across it"/>
+  <img src="./assets/mascot.svg" width="100%" alt="pixel mascot"/>
 </p>
 
 <!-- about -->
