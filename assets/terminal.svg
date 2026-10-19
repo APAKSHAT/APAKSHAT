@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="372" viewBox="0 0 860 372" role="img" aria-label="whoami: Akshat Pandey, AI engineer and full-stack builder">
+<defs>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7f5af0"/><stop offset="1" stop-color="#2cb67d"/></linearGradient>
+<clipPath id="c0"><rect x="64.2" y="46" width="0" height="24"><animate attributeName="width" from="0" to="58.3" begin="0.85s" dur="0.42s" fill="freeze" calcMode="discrete" values="0.0;9.1;18.1;27.2;36.2;45.2;54.3"/></rect></clipPath><clipPath id="c2"><rect x="64.2" y="94" width="0" height="24"><animate attributeName="width" from="0" to="121.7" begin="2.09s" dur="0.91s" fill="freeze" calcMode="discrete" values="0.0;9.1;18.1;27.2;36.2;45.2;54.3;63.4;72.4;81.5;90.5;99.6;108.6;117.7"/></rect></clipPath><clipPath id="c7"><rect x="64.2" y="214" width="0" height="24"><animate attributeName="width" from="0" to="94.5" begin="4.48s" dur="0.70s" fill="freeze" calcMode="discrete" values="0.0;9.1;18.1;27.2;36.2;45.2;54.3;63.4;72.4;81.5;90.5"/></rect></clipPath><clipPath id="c9"><rect x="64.2" y="262" width="0" height="24"><animate attributeName="width" from="0" to="112.6" begin="6.00s" dur="0.84s" fill="freeze" calcMode="discrete" values="0.0;9.1;18.1;27.2;36.2;45.2;54.3;63.4;72.4;81.5;90.5;99.6;108.6"/></rect></clipPath>
+</defs>
+<rect x="1" y="1" width="858" height="370" rx="14" fill="#0f0e17" stroke="url(#edge)" stroke-width="2"/>
+<rect x="1" y="1" width="858" height="36" rx="14" fill="#16161a"/>
+<rect x="1" y="24" width="858" height="14" fill="#16161a"/>
+<circle cx="24" cy="19" r="6" fill="#ff5f56"/><circle cx="44" cy="19" r="6" fill="#ffbd2e"/><circle cx="64" cy="19" r="6" fill="#27c93f"/>
+<text x="430.0" y="24" text-anchor="middle" fill="#94a1b2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13">akshat@github: ~</text>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" xml:space="preserve">
+<g opacity="0"><set attributeName="opacity" to="1" begin="0.60s" fill="freeze"/><text x="28" y="64" fill="#2cb67d" font-weight="700">➜</text><text x="46.1" y="64" fill="#7f5af0" font-weight="700">~</text></g>
+<text x="64.2" y="64" fill="#f8f8f2" clip-path="url(#c0)">whoami</text>
+<text x="28" y="88" opacity="0"><tspan fill="#f8f8f2" font-weight="700">Akshat Pandey</tspan><tspan fill="#94a1b2">  //  AI engineer + full-stack builder</tspan><animate attributeName="opacity" from="0" to="1" begin="1.62s" dur="0.25s" fill="freeze"/></text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="1.84s" fill="freeze"/><text x="28" y="112" fill="#2cb67d" font-weight="700">➜</text><text x="46.1" y="112" fill="#7f5af0" font-weight="700">~</text></g>
+<text x="64.2" y="112" fill="#f8f8f2" clip-path="url(#c2)">cat focus.txt</text>
+<text x="28" y="136" opacity="0"><tspan fill="#2cb67d" font-weight="700">▸ </tspan><tspan fill="#e0def4">LLM systems where the model proposes and code disposes</tspan><animate attributeName="opacity" from="0" to="1" begin="3.35s" dur="0.25s" fill="freeze"/></text>
+<text x="28" y="160" opacity="0"><tspan fill="#2cb67d" font-weight="700">▸ </tspan><tspan fill="#e0def4">RAG + document intelligence </tspan><tspan fill="#f9c74f">(HackRX 2025 · NeuroDoc)</tspan><animate attributeName="opacity" from="0" to="1" begin="3.57s" dur="0.25s" fill="freeze"/></text>
+<text x="28" y="184" opacity="0"><tspan fill="#2cb67d" font-weight="700">▸ </tspan><tspan fill="#e0def4">LLM red-teaming, API contract testing, monitoring</tspan><animate attributeName="opacity" from="0" to="1" begin="3.79s" dur="0.25s" fill="freeze"/></text>
+<text x="28" y="208" opacity="0"><tspan fill="#2cb67d" font-weight="700">▸ </tspan><tspan fill="#e0def4">Data → decisions: cohorts, forecasts, dashboards</tspan><animate attributeName="opacity" from="0" to="1" begin="4.01s" dur="0.25s" fill="freeze"/></text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="4.23s" fill="freeze"/><text x="28" y="232" fill="#2cb67d" font-weight="700">➜</text><text x="46.1" y="232" fill="#7f5af0" font-weight="700">~</text></g>
+<text x="64.2" y="232" fill="#f8f8f2" clip-path="url(#c7)">ls ~/stack</text>
+<text x="28" y="256" opacity="0"><tspan fill="#7f5af0" font-weight="700">python · typescript · fastapi · next.js · react · postgres · docker · gemini</tspan><animate attributeName="opacity" from="0" to="1" begin="5.53s" dur="0.25s" fill="freeze"/></text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="5.75s" fill="freeze"/><text x="28" y="280" fill="#2cb67d" font-weight="700">➜</text><text x="46.1" y="280" fill="#7f5af0" font-weight="700">~</text></g>
+<text x="64.2" y="280" fill="#f8f8f2" clip-path="url(#c9)">echo $STATUS</text>
+<text x="28" y="304" opacity="0"><tspan fill="#2cb67d">shipping things that work in prod, not just in the demo</tspan><animate attributeName="opacity" from="0" to="1" begin="7.19s" dur="0.25s" fill="freeze"/></text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="7.41s" fill="freeze"/><text x="28" y="328" fill="#2cb67d" font-weight="700">➜</text><text x="46.1" y="328" fill="#7f5af0" font-weight="700">~</text><rect x="64.2" y="314" width="9" height="17" fill="#f8f8f2"><animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/></rect></g>
+</g>
+</svg>
