@@ -1,15 +1,20 @@
 <!-- header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:5B4BDB,100:2CB67D&height=220&section=header&text=Akshat%20Pandey&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=AI%20engineer%20%E2%80%A2%20full-stack%20builder%20%E2%80%A2%20data%20nerd&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Akshat Pandey"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:5B4BDB,100:2CB67D&height=220&section=header&text=Akshat%20Pandey&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=observe%20gaps%20%E2%86%92%20build%20solutions&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Akshat Pandey"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/APAKSHAT">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7F5AF0&center=true&vCenter=true&width=640&lines=I+build+LLM+systems+that+don't+hallucinate;RAG+%E2%80%A2+agents+%E2%80%A2+red-teaming+%E2%80%A2+evals;FastAPI+%E2%9F%B7+Next.js+%E2%9F%B7+Postgres;Turning+messy+data+into+decisions;HackRX+2025+%E2%80%94+NeuroDoc+%F0%9F%8F%86" alt="typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7F5AF0&center=true&vCenter=true&width=640&lines=I+observe+gaps.;Then+I+build+solutions.;AI+engineer+%E2%80%A2+full-stack+builder;LLM+systems+that+don't+hallucinate;FastAPI+%E2%9F%B7+Next.js+%E2%9F%B7+Postgres" alt="typing intro"/>
   </a>
 </p>
 
 <br/>
+
+<!-- mascot -->
+<p align="center">
+  <img src="./assets/mascot.svg" width="100%" alt="gapbot spots a gap and builds a bridge across it"/>
+</p>
 
 <!-- about -->
 <p align="center">
@@ -33,55 +38,6 @@
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
-
-<br/>
-
-## ⚡ things I've built
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/APAKSHAT/neuro-doc">🧠 NeuroDoc</a></h3>
-      Document-intelligence system for insurance policies. Answers questions with section citations and refuses to guess. <b>HackRX 2025 submission.</b>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/RAG-7F5AF0?style=flat-square"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/APAKSHAT/cicero-reply-engine">✉️ Cicero Reply Engine</a></h3>
-      Triages inbound replies, drafts answers in the firm's voice and books calls. The LLM proposes; ordered, named policy rules decide what actually gets sent.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LLM-agents-2CB67D?style=flat-square"/> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/APAKSHAT/red-teaming">🛡️ LLM Red Team Simulator</a></h3>
-      Throws 50+ attack vectors at your prompts and endpoints, scores the risk, and writes up the fixes as a PDF report.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Security-E63946?style=flat-square"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/APAKSHAT/speccheck">📜 SpecCheck</a></h3>
-      Reads an OpenAPI spec, generates the nasty test cases for every endpoint and fails your CI build when the contract drifts.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white"/> <img src="https://img.shields.io/badge/CI-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/APAKSHAT/servicepulse">📈 ServicePulse</a></h3>
-      Uptime and latency monitor with smart incident grouping so one outage doesn't page you forty times.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/APAKSHAT/demand-pattern-analyser">🛵 Hyperlocal Delivery Intelligence</a></h3>
-      Demand, cancellation and pricing analysis across 33 Bengaluru pin codes, with a what-if simulator for pricing and supply.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-    </td>
-  </tr>
-</table>
 
 <br/>
 
